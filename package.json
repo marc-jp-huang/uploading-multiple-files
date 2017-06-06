@@ -1,0 +1,23 @@
+{
+  "name": "uploading-multiple-files",
+  "version": "1.0.0",
+  "description": "Upload multiple files",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marc-jp-huang/uploading-multiple-files.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marc-jp-huang/uploading-multiple-files/issues"
+  },
+  "homepage": "https://github.com/marc-jp-huang/uploading-multiple-files#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "formidable": "^1.1.1"
+  }
+}
